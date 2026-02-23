@@ -1,8 +1,8 @@
-# Data Center Utilization & Resource Allocation of Heterogeneous GPU Clusters
-
 [Veiw Project White Paper PDF](https://github.com/deep-model/GPU_Utilization_of_Heterogenous_Clusters/blob/main/GPU%20Utilization_M.Harper.pdf)
+# Data Center Utilization & Resource Allocation of Heterogeneous GPU Clusters
 ##  Matthew Harper 
-
+  <img width="889" height="590" alt="image" src="https://github.com/deep-model/Long-Short_Term_Memory_Models_with_PyTorch/blob/main/LSTM%20Model.jpg" />
+  
 # Abstract
 Data center and Big Data processing systems and deep learning models have become increasingly significant and applied to many 
 real-world applications, graphical processing unit (GPU) clusters with in-memory processing have become the 
