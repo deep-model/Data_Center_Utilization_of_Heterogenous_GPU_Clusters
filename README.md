@@ -1,4 +1,9 @@
-*GPU Utilization & Resource Allocation in Heterogeneous Clusters*
+# GPU Utilization & Resource Allocation in Heterogeneous Clusters
+
+[Veiw Project White Paper PDF](https://deep-model.github.io/Long-Short_Term_Memory_Models_with_PyTorch/LSTM_white_paper.pdf)
+##  Matthew Harper 
+
+
 
 As big data processing systems and deep learning models have become increasingly significant and applied to many real-world applications, graphical processing unit (GPU) clusters with in-memory processing have become the primary processor choice for 
 powerful high performance computing systems featuring in-memory capabilities for deep networks.
