@@ -33,6 +33,12 @@ heterogeneous GPU clusters to achieve enhanced utilization.
 
 # [1] Introduction 
 According to IBM, 90% of the world’s data has been created in the last two years and evidence suggests data  
+creation is not slowing but increasing exponentially. Moreover, this increase in data creation and big data 
+processing systems requirements of high performance in memory computing, has led to the development and use 
+of advanced distributed computing techniques such as distributed-parallel computing, cloud computing, 
+clustering, and high-performance computing integrated with heterogeneous computing infrastructures consisting 
+of layered virtualization over multiple variations of concurrent CPU and GPU environments [33]. 
+
 In order to process big data at the rates and volumes mentioned, not only have new techniques been developed 
 such as Spark, Hadoop, and MapReduce, but advances in distributed cloud computing and clustering have led to a 
 hyperbolic expansion of data centers around the globe.  Combined with parallel computing architectures of 
@@ -47,10 +53,4 @@ utilization leading to decreased performance, suboptimal efficiency, and reduced
 queuing latency. Moreover, an increase in power usage for GPU clusters is realized adding unnecessary cost for both 
 the cloud service provider and customer [12]. 
 
-In order to process big data at the rates and volumes mentioned, not only have new techniques been developed such as 
-Spark, Hadoop, and MapReduce, but advances in distributed cloud computing and clustering have led to a hyperbolic 
-expansion of data centers around the globe.  Combined with parallel computing architectures of GPUs, cloud computing 
-infrastructures have contributed to accelerated training and inference often expected of deep model networks. This 
-robust parallelization for tensor processing and neural networks presents GPU clusters as a preferred processing 
-solution for many supervised and unsupervised AI/ML tasks. A common framework for distributed clusters consists 
-of varying models of GPUs and CPUs to form heterogeneous GPU clusters. 
+
