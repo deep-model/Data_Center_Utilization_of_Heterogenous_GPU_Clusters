@@ -1,6 +1,6 @@
 # GPU Utilization & Resource Allocation in Heterogeneous Clusters
 
-[Veiw Project White Paper PDF](https://deep-model.github.io/Long-Short_Term_Memory_Models_with_PyTorch/LSTM_white_paper.pdf)
+[Veiw Project White Paper PDF](https://github.com/deep-model/GPU_Utilization_of_Heterogenous_Clusters/blob/main/GPU%20Utilization_M.Harper.pdf)
 ##  Matthew Harper 
 
 
