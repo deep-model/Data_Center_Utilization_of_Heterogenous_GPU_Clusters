@@ -8,7 +8,7 @@
   
   
 # Abstract
-Data center and Big Data processing systems and deep learning models have become increasingly significant and applied to many 
+Data center big data processing systems and deep learning models have become increasingly significant and applied to many 
 real-world applications, graphical processing unit (GPU) clusters with in-memory processing have become the 
 primary processor choice for powerful high performance computing systems featuring in-memory capabilities for 
 deep networks [1,13]. While these in-memory processing capabilities of GPUs exhibit powerful processing 
